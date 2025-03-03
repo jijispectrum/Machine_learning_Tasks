@@ -1,0 +1,6 @@
+ID,Name,Age,Gender,Income,City
+1,Alice,25.0,Female,50000.0,New York
+2,Bob,30.0,Male,60000.0,Los Angeles
+3,Charlie,35.0,Male,,Chicago
+4,David,,Male,80000.0,Houston
+5,Eve,40.0,Female,75000.0,Phoenix
