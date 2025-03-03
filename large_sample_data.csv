@@ -1,0 +1,1001 @@
+ID,Name,Age,Gender,Income,City
+1,Person_1,56.0,Male,59241.0,New York
+2,Person_2,46.0,Female,126214.0,Houston
+3,Person_3,32.0,Female,74569.0,Chicago
+4,Person_4,,Female,41745.0,Phoenix
+5,Person_5,25.0,Male,,Houston
+6,Person_6,38.0,Male,43025.0,Phoenix
+7,Person_7,56.0,Male,131660.0,Los Angeles
+8,Person_8,36.0,Male,44288.0,nan
+9,Person_9,40.0,Male,119186.0,Los Angeles
+10,Person_10,28.0,Male,36540.0,Houston
+11,Person_11,28.0,Male,127768.0,Houston
+12,Person_12,41.0,Male,111958.0,Los Angeles
+13,Person_13,53.0,Female,98878.0,Chicago
+14,Person_14,57.0,Female,71846.0,nan
+15,Person_15,41.0,Male,131148.0,Phoenix
+16,Person_16,20.0,Male,105932.0,nan
+17,Person_17,39.0,Female,47482.0,Phoenix
+18,Person_18,19.0,Male,53411.0,nan
+19,Person_19,41.0,Male,80975.0,Phoenix
+20,Person_20,61.0,Male,,Los Angeles
+21,Person_21,,Female,142302.0,Phoenix
+22,Person_22,55.0,Female,108797.0,New York
+23,Person_23,19.0,Female,82307.0,nan
+24,Person_24,38.0,Female,33093.0,New York
+25,Person_25,50.0,Female,,New York
+26,Person_26,,Male,52042.0,New York
+27,Person_27,39.0,Female,82930.0,New York
+28,Person_28,61.0,Male,147584.0,Los Angeles
+29,Person_29,42.0,Male,74413.0,nan
+30,Person_30,44.0,Female,143387.0,Phoenix
+31,Person_31,59.0,Female,123623.0,New York
+32,Person_32,45.0,Male,127883.0,Los Angeles
+33,Person_33,33.0,Male,63756.0,Los Angeles
+34,Person_34,32.0,Male,83268.0,Los Angeles
+35,Person_35,64.0,Female,69214.0,Houston
+36,Person_36,61.0,Female,111871.0,nan
+37,Person_37,20.0,Female,58602.0,Houston
+38,Person_38,54.0,Female,83331.0,Chicago
+39,Person_39,24.0,Female,78901.0,Los Angeles
+40,Person_40,38.0,Male,129986.0,Chicago
+41,Person_41,26.0,Female,93416.0,New York
+42,Person_42,56.0,Male,62196.0,New York
+43,Person_43,35.0,Male,35626.0,Houston
+44,Person_44,21.0,Male,37424.0,Phoenix
+45,Person_45,42.0,Female,42857.0,Chicago
+46,Person_46,31.0,Female,140459.0,Phoenix
+47,Person_47,26.0,Female,145621.0,Houston
+48,Person_48,43.0,Male,49982.0,nan
+49,Person_49,19.0,Male,106961.0,Phoenix
+50,Person_50,37.0,Male,31980.0,Phoenix
+51,Person_51,45.0,Male,78290.0,New York
+52,Person_52,64.0,Male,56431.0,Chicago
+53,Person_53,24.0,Male,114976.0,New York
+54,Person_54,61.0,Female,137288.0,Phoenix
+55,Person_55,25.0,Female,112711.0,Chicago
+56,Person_56,64.0,Female,144187.0,Chicago
+57,Person_57,52.0,Female,56385.0,New York
+58,Person_58,31.0,Male,68158.0,Phoenix
+59,Person_59,34.0,Male,53019.0,nan
+60,Person_60,53.0,Female,48639.0,Phoenix
+61,Person_61,57.0,Male,115530.0,Los Angeles
+62,Person_62,21.0,Female,129911.0,Houston
+63,Person_63,,Female,51563.0,Chicago
+64,Person_64,23.0,Female,69341.0,nan
+65,Person_65,59.0,Male,145672.0,Chicago
+66,Person_66,21.0,Female,35776.0,Chicago
+67,Person_67,46.0,Female,66444.0,Houston
+68,Person_68,35.0,Female,98916.0,Chicago
+69,Person_69,43.0,Male,38711.0,Chicago
+70,Person_70,61.0,Male,,Los Angeles
+71,Person_71,51.0,Female,112970.0,Phoenix
+72,Person_72,27.0,Male,142301.0,Phoenix
+73,Person_73,53.0,Male,115553.0,nan
+74,Person_74,31.0,Male,60707.0,Houston
+75,Person_75,48.0,Male,69110.0,New York
+76,Person_76,32.0,Male,91788.0,nan
+77,Person_77,,Male,112879.0,New York
+78,Person_78,31.0,Male,,Los Angeles
+79,Person_79,40.0,Male,137188.0,Los Angeles
+80,Person_80,57.0,Male,35655.0,Chicago
+81,Person_81,38.0,Male,74859.0,nan
+82,Person_82,33.0,Female,83625.0,Houston
+83,Person_83,62.0,Female,82098.0,nan
+84,Person_84,35.0,Male,45251.0,New York
+85,Person_85,64.0,Female,30526.0,nan
+86,Person_86,41.0,Female,98760.0,New York
+87,Person_87,43.0,Male,77837.0,Los Angeles
+88,Person_88,42.0,Male,41536.0,Los Angeles
+89,Person_89,62.0,Male,58541.0,Los Angeles
+90,Person_90,58.0,Female,109083.0,Phoenix
+91,Person_91,46.0,Female,81027.0,Houston
+92,Person_92,32.0,Male,,Houston
+93,Person_93,62.0,Male,38712.0,Chicago
+94,Person_94,18.0,Male,134101.0,Los Angeles
+95,Person_95,42.0,Female,95455.0,nan
+96,Person_96,24.0,Female,104744.0,Phoenix
+97,Person_97,26.0,Female,35109.0,Houston
+98,Person_98,41.0,Female,79268.0,Los Angeles
+99,Person_99,18.0,Male,130737.0,Chicago
+100,Person_100,61.0,Male,84615.0,Los Angeles
+101,Person_101,25.0,Male,112503.0,New York
+102,Person_102,,Male,59759.0,Los Angeles
+103,Person_103,28.0,Female,115708.0,nan
+104,Person_104,34.0,Female,90112.0,New York
+105,Person_105,25.0,Male,,Chicago
+106,Person_106,52.0,Male,56589.0,Houston
+107,Person_107,52.0,Female,60015.0,Los Angeles
+108,Person_108,50.0,Male,59009.0,New York
+109,Person_109,22.0,Female,113309.0,Los Angeles
+110,Person_110,59.0,Male,92046.0,Houston
+111,Person_111,56.0,Male,136661.0,Houston
+112,Person_112,58.0,Male,56143.0,Phoenix
+113,Person_113,45.0,Male,36154.0,Houston
+114,Person_114,,Male,51804.0,Chicago
+115,Person_115,26.0,Male,71688.0,New York
+116,Person_116,25.0,Male,94288.0,Phoenix
+117,Person_117,29.0,Female,81195.0,Chicago
+118,Person_118,51.0,Female,50581.0,Los Angeles
+119,Person_119,50.0,Female,82648.0,New York
+120,Person_120,,Female,60087.0,Houston
+121,Person_121,41.0,Female,79930.0,New York
+122,Person_122,54.0,Male,62981.0,Los Angeles
+123,Person_123,52.0,Male,99298.0,Phoenix
+124,Person_124,,Female,76167.0,Phoenix
+125,Person_125,,Male,105304.0,Phoenix
+126,Person_126,39.0,Female,73408.0,nan
+127,Person_127,44.0,Female,69499.0,Chicago
+128,Person_128,52.0,Male,82269.0,Chicago
+129,Person_129,18.0,Male,,New York
+130,Person_130,,Male,144126.0,Houston
+131,Person_131,54.0,Female,104319.0,Phoenix
+132,Person_132,64.0,Male,141925.0,Phoenix
+133,Person_133,31.0,Female,125317.0,Los Angeles
+134,Person_134,20.0,Female,126347.0,Los Angeles
+135,Person_135,18.0,Female,78787.0,Phoenix
+136,Person_136,22.0,Male,65488.0,Phoenix
+137,Person_137,,Male,104441.0,Houston
+138,Person_138,31.0,Female,104663.0,Chicago
+139,Person_139,56.0,Male,52431.0,nan
+140,Person_140,44.0,Male,91681.0,Chicago
+141,Person_141,26.0,Male,,Houston
+142,Person_142,32.0,Female,79153.0,Phoenix
+143,Person_143,32.0,Female,36368.0,Chicago
+144,Person_144,,Male,57424.0,Phoenix
+145,Person_145,59.0,Female,142360.0,nan
+146,Person_146,30.0,Male,75004.0,New York
+147,Person_147,49.0,Male,,Chicago
+148,Person_148,56.0,Male,118652.0,nan
+149,Person_149,49.0,Male,142755.0,Phoenix
+150,Person_150,21.0,Female,86985.0,Houston
+151,Person_151,47.0,Female,80069.0,New York
+152,Person_152,54.0,Female,82326.0,Phoenix
+153,Person_153,,Male,138737.0,Los Angeles
+154,Person_154,56.0,Male,111061.0,Los Angeles
+155,Person_155,62.0,Male,53398.0,New York
+156,Person_156,32.0,Female,128393.0,Houston
+157,Person_157,60.0,Male,80861.0,Phoenix
+158,Person_158,46.0,Female,105897.0,Chicago
+159,Person_159,53.0,Female,111905.0,New York
+160,Person_160,30.0,Female,98577.0,Houston
+161,Person_161,49.0,Female,95641.0,Chicago
+162,Person_162,24.0,Female,39078.0,nan
+163,Person_163,39.0,Female,55003.0,Los Angeles
+164,Person_164,45.0,Male,92768.0,Chicago
+165,Person_165,19.0,Male,81047.0,New York
+166,Person_166,59.0,Female,101626.0,Los Angeles
+167,Person_167,62.0,Female,87660.0,Phoenix
+168,Person_168,23.0,Male,134386.0,Chicago
+169,Person_169,45.0,Female,,nan
+170,Person_170,45.0,Female,31925.0,Los Angeles
+171,Person_171,61.0,Male,113976.0,New York
+172,Person_172,61.0,Female,135221.0,Phoenix
+173,Person_173,37.0,Female,147832.0,New York
+174,Person_174,47.0,Female,56015.0,Houston
+175,Person_175,28.0,Male,63320.0,Houston
+176,Person_176,45.0,Male,94881.0,Los Angeles
+177,Person_177,42.0,Male,120827.0,Los Angeles
+178,Person_178,56.0,Female,132215.0,Los Angeles
+179,Person_179,50.0,Female,56289.0,Houston
+180,Person_180,,Male,33389.0,New York
+181,Person_181,44.0,Female,55683.0,New York
+182,Person_182,30.0,Female,43629.0,Los Angeles
+183,Person_183,58.0,Female,91550.0,Phoenix
+184,Person_184,20.0,Female,,New York
+185,Person_185,56.0,Female,,Houston
+186,Person_186,23.0,Male,56630.0,Chicago
+187,Person_187,25.0,Female,128762.0,nan
+188,Person_188,44.0,Male,76163.0,Chicago
+189,Person_189,26.0,Female,128511.0,Phoenix
+190,Person_190,54.0,Male,96435.0,Los Angeles
+191,Person_191,50.0,Female,41653.0,Houston
+192,Person_192,59.0,Male,57961.0,Phoenix
+193,Person_193,61.0,Female,111941.0,Houston
+194,Person_194,41.0,Male,104137.0,Houston
+195,Person_195,32.0,Female,63662.0,Los Angeles
+196,Person_196,49.0,Male,128818.0,Chicago
+197,Person_197,49.0,Female,86446.0,Los Angeles
+198,Person_198,41.0,Male,51288.0,nan
+199,Person_199,58.0,Male,125081.0,Phoenix
+200,Person_200,29.0,Female,66877.0,Phoenix
+201,Person_201,56.0,Female,141562.0,Los Angeles
+202,Person_202,19.0,Male,45313.0,Houston
+203,Person_203,20.0,Female,110885.0,Houston
+204,Person_204,54.0,Male,102715.0,New York
+205,Person_205,34.0,Male,40326.0,Phoenix
+206,Person_206,19.0,Male,140091.0,nan
+207,Person_207,,Female,31560.0,New York
+208,Person_208,45.0,Male,109148.0,nan
+209,Person_209,40.0,Male,113186.0,Phoenix
+210,Person_210,54.0,Female,56745.0,Chicago
+211,Person_211,49.0,Female,61890.0,Phoenix
+212,Person_212,50.0,Female,50022.0,Los Angeles
+213,Person_213,,Female,82579.0,Houston
+214,Person_214,36.0,Male,100316.0,Houston
+215,Person_215,19.0,Male,113847.0,Los Angeles
+216,Person_216,61.0,Male,58380.0,Los Angeles
+217,Person_217,43.0,Male,140198.0,Chicago
+218,Person_218,49.0,Female,32356.0,Houston
+219,Person_219,23.0,Male,100326.0,Houston
+220,Person_220,49.0,Male,122447.0,Chicago
+221,Person_221,21.0,Female,,New York
+222,Person_222,28.0,Male,119899.0,Chicago
+223,Person_223,34.0,Male,,nan
+224,Person_224,55.0,Male,105717.0,Houston
+225,Person_225,41.0,Male,135361.0,nan
+226,Person_226,22.0,Male,46082.0,Phoenix
+227,Person_227,51.0,Male,30661.0,Houston
+228,Person_228,23.0,Female,67412.0,Chicago
+229,Person_229,39.0,Female,144015.0,Phoenix
+230,Person_230,28.0,Male,32920.0,Houston
+231,Person_231,33.0,Male,121194.0,New York
+232,Person_232,50.0,Female,,nan
+233,Person_233,26.0,Male,90315.0,Los Angeles
+234,Person_234,23.0,Male,109561.0,Houston
+235,Person_235,33.0,Male,,New York
+236,Person_236,46.0,Female,,Chicago
+237,Person_237,20.0,Male,75500.0,Houston
+238,Person_238,37.0,Female,,Chicago
+239,Person_239,53.0,Male,46309.0,Chicago
+240,Person_240,36.0,Female,85230.0,New York
+241,Person_241,43.0,Female,141822.0,Houston
+242,Person_242,20.0,Male,128656.0,Phoenix
+243,Person_243,36.0,Female,60027.0,New York
+244,Person_244,37.0,Male,102541.0,New York
+245,Person_245,49.0,Female,142340.0,Houston
+246,Person_246,24.0,Male,144846.0,Houston
+247,Person_247,,Male,89321.0,Chicago
+248,Person_248,,Female,30956.0,Houston
+249,Person_249,57.0,Male,130375.0,Chicago
+250,Person_250,56.0,Male,104131.0,New York
+251,Person_251,35.0,Female,77908.0,nan
+252,Person_252,57.0,Male,108339.0,Phoenix
+253,Person_253,18.0,Male,55963.0,nan
+254,Person_254,28.0,Female,,Houston
+255,Person_255,45.0,Female,69443.0,Phoenix
+256,Person_256,42.0,Male,129259.0,Los Angeles
+257,Person_257,40.0,Male,69063.0,Los Angeles
+258,Person_258,48.0,Female,144225.0,Chicago
+259,Person_259,47.0,Female,,Phoenix
+260,Person_260,59.0,Male,110818.0,Chicago
+261,Person_261,52.0,Female,34703.0,New York
+262,Person_262,24.0,Male,95128.0,Phoenix
+263,Person_263,33.0,Male,102099.0,New York
+264,Person_264,43.0,Male,55849.0,Chicago
+265,Person_265,19.0,Male,61860.0,Phoenix
+266,Person_266,18.0,Male,61585.0,nan
+267,Person_267,29.0,Female,52015.0,Phoenix
+268,Person_268,22.0,Female,,Chicago
+269,Person_269,54.0,Female,73585.0,Los Angeles
+270,Person_270,49.0,Female,56958.0,Chicago
+271,Person_271,26.0,Male,56017.0,Los Angeles
+272,Person_272,,Male,,Chicago
+273,Person_273,52.0,Male,75350.0,Phoenix
+274,Person_274,36.0,Male,42201.0,Phoenix
+275,Person_275,33.0,Female,59426.0,Phoenix
+276,Person_276,20.0,Male,47778.0,Houston
+277,Person_277,37.0,Male,75241.0,New York
+278,Person_278,41.0,Female,72229.0,Phoenix
+279,Person_279,50.0,Female,116652.0,Los Angeles
+280,Person_280,41.0,Female,148402.0,Phoenix
+281,Person_281,,Female,78364.0,Houston
+282,Person_282,25.0,Male,128833.0,Los Angeles
+283,Person_283,53.0,Male,114878.0,Houston
+284,Person_284,55.0,Female,87056.0,Los Angeles
+285,Person_285,57.0,Male,57490.0,Chicago
+286,Person_286,37.0,Male,,New York
+287,Person_287,52.0,Male,56723.0,New York
+288,Person_288,42.0,Female,,Houston
+289,Person_289,52.0,Male,108301.0,New York
+290,Person_290,,Female,142214.0,Houston
+291,Person_291,,Male,41561.0,Houston
+292,Person_292,,Male,137435.0,Houston
+293,Person_293,63.0,Male,96061.0,New York
+294,Person_294,35.0,Female,118397.0,Houston
+295,Person_295,19.0,Male,79153.0,New York
+296,Person_296,52.0,Female,63142.0,Houston
+297,Person_297,33.0,Female,56916.0,Phoenix
+298,Person_298,58.0,Female,94324.0,Houston
+299,Person_299,53.0,Male,74965.0,Los Angeles
+300,Person_300,50.0,Male,34648.0,Houston
+301,Person_301,21.0,Male,65133.0,Chicago
+302,Person_302,50.0,Male,80677.0,Houston
+303,Person_303,31.0,Female,,Los Angeles
+304,Person_304,,Female,124588.0,Los Angeles
+305,Person_305,37.0,Female,129950.0,New York
+306,Person_306,25.0,Male,128317.0,Phoenix
+307,Person_307,24.0,Female,100135.0,Houston
+308,Person_308,20.0,Male,65046.0,New York
+309,Person_309,34.0,Female,,Phoenix
+310,Person_310,50.0,Male,131459.0,Houston
+311,Person_311,29.0,Male,136625.0,Chicago
+312,Person_312,39.0,Female,99350.0,Houston
+313,Person_313,39.0,Female,75893.0,Los Angeles
+314,Person_314,63.0,Female,131520.0,Los Angeles
+315,Person_315,47.0,Female,91272.0,Chicago
+316,Person_316,55.0,Male,122152.0,New York
+317,Person_317,55.0,Female,97649.0,Phoenix
+318,Person_318,62.0,Female,94674.0,Houston
+319,Person_319,25.0,Female,149044.0,Los Angeles
+320,Person_320,44.0,Male,138542.0,New York
+321,Person_321,44.0,Male,43760.0,Chicago
+322,Person_322,51.0,Female,,Los Angeles
+323,Person_323,38.0,Male,116475.0,Chicago
+324,Person_324,47.0,Female,91367.0,Houston
+325,Person_325,50.0,Male,127955.0,Phoenix
+326,Person_326,45.0,Male,42588.0,Los Angeles
+327,Person_327,64.0,Male,131678.0,Los Angeles
+328,Person_328,50.0,Male,,Houston
+329,Person_329,22.0,Female,148154.0,New York
+330,Person_330,36.0,Female,82233.0,Phoenix
+331,Person_331,,Female,74738.0,Los Angeles
+332,Person_332,52.0,Male,63397.0,Phoenix
+333,Person_333,34.0,Female,112189.0,Los Angeles
+334,Person_334,61.0,Female,,Phoenix
+335,Person_335,45.0,Female,101260.0,Chicago
+336,Person_336,47.0,Male,106619.0,Los Angeles
+337,Person_337,,Male,141453.0,Phoenix
+338,Person_338,63.0,Male,49816.0,nan
+339,Person_339,,Female,,Chicago
+340,Person_340,52.0,Female,36276.0,Chicago
+341,Person_341,58.0,Female,,New York
+342,Person_342,54.0,Male,134199.0,Phoenix
+343,Person_343,41.0,Male,109530.0,nan
+344,Person_344,46.0,Female,53499.0,New York
+345,Person_345,63.0,Male,118576.0,Phoenix
+346,Person_346,,Male,138856.0,New York
+347,Person_347,52.0,Male,,New York
+348,Person_348,50.0,Male,101635.0,Los Angeles
+349,Person_349,38.0,Female,137803.0,Phoenix
+350,Person_350,49.0,Male,115112.0,Houston
+351,Person_351,40.0,Male,65946.0,Los Angeles
+352,Person_352,50.0,Male,85204.0,New York
+353,Person_353,,Male,81886.0,New York
+354,Person_354,35.0,Female,101652.0,New York
+355,Person_355,42.0,Female,45563.0,Phoenix
+356,Person_356,59.0,Male,122324.0,Phoenix
+357,Person_357,48.0,Male,122464.0,Los Angeles
+358,Person_358,,Male,131872.0,Houston
+359,Person_359,57.0,Male,39847.0,Los Angeles
+360,Person_360,63.0,Male,56155.0,Chicago
+361,Person_361,,Male,109671.0,nan
+362,Person_362,49.0,Female,146891.0,New York
+363,Person_363,64.0,Male,113310.0,New York
+364,Person_364,39.0,Female,97278.0,Los Angeles
+365,Person_365,40.0,Female,48309.0,Los Angeles
+366,Person_366,19.0,Male,30619.0,New York
+367,Person_367,44.0,Female,113194.0,Los Angeles
+368,Person_368,59.0,Female,80108.0,Phoenix
+369,Person_369,19.0,Female,64707.0,nan
+370,Person_370,43.0,Female,50337.0,Los Angeles
+371,Person_371,34.0,Female,111537.0,New York
+372,Person_372,57.0,Female,96504.0,Los Angeles
+373,Person_373,50.0,Male,77614.0,nan
+374,Person_374,26.0,Female,121428.0,Los Angeles
+375,Person_375,60.0,Female,121155.0,Chicago
+376,Person_376,56.0,Female,30281.0,Phoenix
+377,Person_377,46.0,Male,57420.0,Houston
+378,Person_378,59.0,Female,110896.0,nan
+379,Person_379,43.0,Male,69030.0,Chicago
+380,Person_380,52.0,Female,31058.0,Los Angeles
+381,Person_381,42.0,Male,,Chicago
+382,Person_382,41.0,Male,106260.0,Chicago
+383,Person_383,30.0,Female,58404.0,New York
+384,Person_384,,Female,133482.0,Phoenix
+385,Person_385,53.0,Male,135284.0,Houston
+386,Person_386,62.0,Female,59856.0,Los Angeles
+387,Person_387,37.0,Male,39200.0,Houston
+388,Person_388,18.0,Male,94178.0,Houston
+389,Person_389,25.0,Male,63997.0,Phoenix
+390,Person_390,63.0,Male,55611.0,Houston
+391,Person_391,33.0,Male,149273.0,Houston
+392,Person_392,31.0,Female,71235.0,Chicago
+393,Person_393,29.0,Male,147428.0,Phoenix
+394,Person_394,40.0,Male,65057.0,New York
+395,Person_395,32.0,Female,,Los Angeles
+396,Person_396,45.0,Male,133674.0,Houston
+397,Person_397,51.0,Female,144474.0,Los Angeles
+398,Person_398,19.0,Female,,nan
+399,Person_399,49.0,Female,75272.0,Los Angeles
+400,Person_400,40.0,Male,119393.0,New York
+401,Person_401,39.0,Male,91212.0,nan
+402,Person_402,,Male,45398.0,nan
+403,Person_403,39.0,Female,86503.0,New York
+404,Person_404,39.0,Male,36638.0,Los Angeles
+405,Person_405,59.0,Female,36570.0,Houston
+406,Person_406,23.0,Male,,Chicago
+407,Person_407,32.0,Female,39110.0,Houston
+408,Person_408,,Male,135899.0,New York
+409,Person_409,,Male,109141.0,Chicago
+410,Person_410,50.0,Male,,Los Angeles
+411,Person_411,25.0,Female,69062.0,Chicago
+412,Person_412,61.0,Female,52911.0,Chicago
+413,Person_413,61.0,Male,134061.0,nan
+414,Person_414,22.0,Male,62556.0,Chicago
+415,Person_415,56.0,Female,108131.0,Chicago
+416,Person_416,21.0,Female,31969.0,Houston
+417,Person_417,23.0,Female,73753.0,Los Angeles
+418,Person_418,62.0,Male,112811.0,Houston
+419,Person_419,49.0,Female,34470.0,Houston
+420,Person_420,47.0,Male,,New York
+421,Person_421,64.0,Female,,Houston
+422,Person_422,52.0,Male,137510.0,Phoenix
+423,Person_423,57.0,Female,138295.0,Phoenix
+424,Person_424,,Female,53196.0,New York
+425,Person_425,30.0,Female,135823.0,Los Angeles
+426,Person_426,59.0,Female,43669.0,Los Angeles
+427,Person_427,47.0,Female,67380.0,Houston
+428,Person_428,36.0,Male,,nan
+429,Person_429,34.0,Female,145886.0,nan
+430,Person_430,,Female,78320.0,Los Angeles
+431,Person_431,45.0,Female,77414.0,Chicago
+432,Person_432,43.0,Male,133542.0,Phoenix
+433,Person_433,54.0,Female,45577.0,Chicago
+434,Person_434,43.0,Male,,Chicago
+435,Person_435,40.0,Female,,Los Angeles
+436,Person_436,26.0,Female,58625.0,Chicago
+437,Person_437,29.0,Male,,New York
+438,Person_438,18.0,Female,54089.0,Houston
+439,Person_439,18.0,Male,66487.0,New York
+440,Person_440,64.0,Male,95838.0,Phoenix
+441,Person_441,51.0,Female,126999.0,Houston
+442,Person_442,49.0,Male,140448.0,Chicago
+443,Person_443,42.0,Female,124795.0,Phoenix
+444,Person_444,57.0,Female,80138.0,Houston
+445,Person_445,62.0,Male,72823.0,Chicago
+446,Person_446,18.0,Male,67208.0,New York
+447,Person_447,33.0,Male,84061.0,Houston
+448,Person_448,56.0,Male,60659.0,Chicago
+449,Person_449,22.0,Female,131376.0,New York
+450,Person_450,39.0,Female,61890.0,Phoenix
+451,Person_451,,Male,109134.0,Phoenix
+452,Person_452,20.0,Female,77055.0,Phoenix
+453,Person_453,29.0,Female,142269.0,Phoenix
+454,Person_454,43.0,Female,49508.0,Los Angeles
+455,Person_455,33.0,Female,72287.0,nan
+456,Person_456,54.0,Male,108916.0,Houston
+457,Person_457,39.0,Male,56984.0,Los Angeles
+458,Person_458,46.0,Female,140169.0,Chicago
+459,Person_459,31.0,Male,38125.0,Chicago
+460,Person_460,,Male,66059.0,Phoenix
+461,Person_461,22.0,Male,99569.0,New York
+462,Person_462,64.0,Female,133409.0,Chicago
+463,Person_463,47.0,Female,47087.0,New York
+464,Person_464,63.0,Female,136437.0,Houston
+465,Person_465,22.0,Male,145262.0,New York
+466,Person_466,29.0,Female,35704.0,Houston
+467,Person_467,33.0,Female,90576.0,Los Angeles
+468,Person_468,43.0,Male,103384.0,Los Angeles
+469,Person_469,43.0,Female,117128.0,Phoenix
+470,Person_470,,Female,141279.0,Chicago
+471,Person_471,56.0,Male,102460.0,Phoenix
+472,Person_472,53.0,Male,57208.0,Houston
+473,Person_473,,Male,148516.0,Phoenix
+474,Person_474,47.0,Female,115150.0,New York
+475,Person_475,54.0,Female,96024.0,nan
+476,Person_476,40.0,Female,,Los Angeles
+477,Person_477,27.0,Male,55923.0,Chicago
+478,Person_478,22.0,Male,144044.0,Houston
+479,Person_479,53.0,Female,,Houston
+480,Person_480,51.0,Female,,New York
+481,Person_481,48.0,Male,97203.0,Chicago
+482,Person_482,27.0,Male,,nan
+483,Person_483,36.0,Male,34114.0,Houston
+484,Person_484,49.0,Male,94965.0,Houston
+485,Person_485,18.0,Female,66321.0,New York
+486,Person_486,22.0,Male,103297.0,Phoenix
+487,Person_487,,Female,126652.0,Los Angeles
+488,Person_488,21.0,Female,129304.0,Chicago
+489,Person_489,33.0,Female,143942.0,Houston
+490,Person_490,41.0,Male,55426.0,Houston
+491,Person_491,33.0,Male,47772.0,Los Angeles
+492,Person_492,19.0,Male,133754.0,Phoenix
+493,Person_493,45.0,Male,33712.0,Houston
+494,Person_494,49.0,Female,31367.0,nan
+495,Person_495,44.0,Male,136493.0,New York
+496,Person_496,37.0,Male,137317.0,Phoenix
+497,Person_497,41.0,Female,145142.0,Chicago
+498,Person_498,,Male,121736.0,Houston
+499,Person_499,52.0,Female,,Los Angeles
+500,Person_500,50.0,Female,33726.0,New York
+501,Person_501,50.0,Female,119152.0,Chicago
+502,Person_502,60.0,Female,57723.0,Los Angeles
+503,Person_503,54.0,Female,,Los Angeles
+504,Person_504,29.0,Female,130494.0,Chicago
+505,Person_505,20.0,Female,39108.0,New York
+506,Person_506,18.0,Female,107714.0,New York
+507,Person_507,50.0,Male,65643.0,Phoenix
+508,Person_508,57.0,Male,61324.0,Houston
+509,Person_509,,Male,133896.0,nan
+510,Person_510,60.0,Male,113360.0,Chicago
+511,Person_511,61.0,Female,140896.0,Chicago
+512,Person_512,46.0,Male,38927.0,New York
+513,Person_513,,Female,123680.0,Houston
+514,Person_514,29.0,Male,126546.0,Phoenix
+515,Person_515,48.0,Male,,Los Angeles
+516,Person_516,63.0,Male,109973.0,Los Angeles
+517,Person_517,19.0,Female,,Chicago
+518,Person_518,52.0,Male,139834.0,nan
+519,Person_519,40.0,Female,135314.0,nan
+520,Person_520,34.0,Female,106743.0,Houston
+521,Person_521,43.0,Male,90233.0,nan
+522,Person_522,25.0,Male,55537.0,New York
+523,Person_523,46.0,Male,131293.0,Chicago
+524,Person_524,,Female,,Houston
+525,Person_525,27.0,Male,,Los Angeles
+526,Person_526,43.0,Female,52612.0,New York
+527,Person_527,51.0,Female,123977.0,Phoenix
+528,Person_528,58.0,Male,,Chicago
+529,Person_529,24.0,Male,65631.0,New York
+530,Person_530,21.0,Female,138997.0,Phoenix
+531,Person_531,,Female,122059.0,Phoenix
+532,Person_532,28.0,Female,61348.0,Houston
+533,Person_533,46.0,Male,94732.0,Houston
+534,Person_534,53.0,Female,31177.0,Houston
+535,Person_535,,Male,34760.0,New York
+536,Person_536,38.0,Female,62779.0,New York
+537,Person_537,53.0,Female,51636.0,Chicago
+538,Person_538,27.0,Male,111889.0,Houston
+539,Person_539,54.0,Female,83551.0,Phoenix
+540,Person_540,26.0,Male,41556.0,Los Angeles
+541,Person_541,41.0,Male,57598.0,Chicago
+542,Person_542,52.0,Female,41563.0,New York
+543,Person_543,52.0,Male,76819.0,Chicago
+544,Person_544,53.0,Male,139326.0,Chicago
+545,Person_545,35.0,Female,,Chicago
+546,Person_546,56.0,Male,121055.0,Chicago
+547,Person_547,49.0,Male,56966.0,Los Angeles
+548,Person_548,41.0,Male,111709.0,Houston
+549,Person_549,40.0,Female,89889.0,Phoenix
+550,Person_550,49.0,Male,56987.0,Chicago
+551,Person_551,,Female,108714.0,Chicago
+552,Person_552,29.0,Female,134874.0,Chicago
+553,Person_553,30.0,Male,88348.0,Houston
+554,Person_554,40.0,Male,54596.0,New York
+555,Person_555,42.0,Male,63174.0,New York
+556,Person_556,52.0,Female,94106.0,Los Angeles
+557,Person_557,58.0,Male,137510.0,New York
+558,Person_558,47.0,Male,99967.0,Chicago
+559,Person_559,34.0,Male,89182.0,Chicago
+560,Person_560,37.0,Male,,Chicago
+561,Person_561,42.0,Male,117163.0,Los Angeles
+562,Person_562,39.0,Female,69310.0,Chicago
+563,Person_563,30.0,Female,86088.0,New York
+564,Person_564,36.0,Male,38906.0,Houston
+565,Person_565,,Male,66914.0,Houston
+566,Person_566,29.0,Male,140350.0,Phoenix
+567,Person_567,,Male,75379.0,New York
+568,Person_568,36.0,Female,108612.0,Chicago
+569,Person_569,,Male,144828.0,Houston
+570,Person_570,,Female,67650.0,nan
+571,Person_571,24.0,Female,76881.0,Houston
+572,Person_572,45.0,Male,76413.0,Chicago
+573,Person_573,31.0,Female,36012.0,Houston
+574,Person_574,48.0,Female,80115.0,Phoenix
+575,Person_575,36.0,Female,37151.0,Phoenix
+576,Person_576,64.0,Female,87716.0,nan
+577,Person_577,33.0,Male,123747.0,New York
+578,Person_578,22.0,Male,122653.0,New York
+579,Person_579,52.0,Female,66378.0,New York
+580,Person_580,29.0,Male,,Houston
+581,Person_581,42.0,Male,102430.0,New York
+582,Person_582,38.0,Male,43467.0,Chicago
+583,Person_583,53.0,Male,61010.0,Phoenix
+584,Person_584,40.0,Male,144793.0,Chicago
+585,Person_585,33.0,Female,,New York
+586,Person_586,56.0,Male,94157.0,Chicago
+587,Person_587,62.0,Male,138177.0,nan
+588,Person_588,59.0,Male,42289.0,Houston
+589,Person_589,56.0,Male,74976.0,Chicago
+590,Person_590,31.0,Female,73596.0,Houston
+591,Person_591,48.0,Female,53171.0,nan
+592,Person_592,22.0,Female,130441.0,Los Angeles
+593,Person_593,52.0,Female,116365.0,New York
+594,Person_594,40.0,Male,148218.0,Phoenix
+595,Person_595,46.0,Female,129590.0,New York
+596,Person_596,60.0,Male,144014.0,Phoenix
+597,Person_597,,Male,74139.0,New York
+598,Person_598,35.0,Male,78713.0,Houston
+599,Person_599,64.0,Male,59734.0,Chicago
+600,Person_600,29.0,Male,102588.0,Chicago
+601,Person_601,26.0,Female,,Los Angeles
+602,Person_602,27.0,Female,33654.0,Phoenix
+603,Person_603,61.0,Female,119022.0,Phoenix
+604,Person_604,34.0,Female,48743.0,Phoenix
+605,Person_605,55.0,Male,,Houston
+606,Person_606,24.0,Female,120025.0,Phoenix
+607,Person_607,63.0,Male,104172.0,Chicago
+608,Person_608,30.0,Female,36441.0,Houston
+609,Person_609,57.0,Male,149735.0,New York
+610,Person_610,59.0,Male,54611.0,Phoenix
+611,Person_611,26.0,Female,149891.0,Phoenix
+612,Person_612,44.0,Male,137971.0,New York
+613,Person_613,19.0,Male,42149.0,Phoenix
+614,Person_614,22.0,Female,130102.0,New York
+615,Person_615,,Male,89189.0,Houston
+616,Person_616,54.0,Female,137904.0,Chicago
+617,Person_617,55.0,Female,51675.0,New York
+618,Person_618,36.0,Female,101031.0,Los Angeles
+619,Person_619,,Male,,New York
+620,Person_620,62.0,Male,43673.0,Phoenix
+621,Person_621,18.0,Male,106666.0,Houston
+622,Person_622,39.0,Female,118204.0,Houston
+623,Person_623,34.0,Male,,nan
+624,Person_624,24.0,Female,,Chicago
+625,Person_625,42.0,Female,53669.0,Los Angeles
+626,Person_626,62.0,Male,64068.0,nan
+627,Person_627,21.0,Female,118789.0,Phoenix
+628,Person_628,53.0,Male,39435.0,Phoenix
+629,Person_629,23.0,Male,124088.0,Chicago
+630,Person_630,48.0,Male,82249.0,Houston
+631,Person_631,,Male,67384.0,New York
+632,Person_632,61.0,Male,111929.0,Phoenix
+633,Person_633,56.0,Female,106153.0,Chicago
+634,Person_634,44.0,Female,134056.0,Houston
+635,Person_635,27.0,Female,105388.0,Houston
+636,Person_636,43.0,Male,61401.0,Houston
+637,Person_637,,Male,101831.0,nan
+638,Person_638,56.0,Male,149503.0,Houston
+639,Person_639,20.0,Female,145760.0,Phoenix
+640,Person_640,62.0,Male,131529.0,Chicago
+641,Person_641,30.0,Female,64084.0,Houston
+642,Person_642,45.0,Female,140641.0,Los Angeles
+643,Person_643,37.0,Male,,Los Angeles
+644,Person_644,45.0,Male,85826.0,nan
+645,Person_645,25.0,Female,66451.0,New York
+646,Person_646,58.0,Male,37227.0,New York
+647,Person_647,56.0,Female,61910.0,New York
+648,Person_648,18.0,Male,66041.0,Los Angeles
+649,Person_649,,Male,118920.0,New York
+650,Person_650,30.0,Female,95681.0,Phoenix
+651,Person_651,45.0,Male,133314.0,Houston
+652,Person_652,42.0,Female,111571.0,nan
+653,Person_653,50.0,Male,95481.0,Chicago
+654,Person_654,55.0,Female,98576.0,Chicago
+655,Person_655,23.0,Female,137958.0,Houston
+656,Person_656,61.0,Male,94174.0,Los Angeles
+657,Person_657,62.0,Female,56160.0,New York
+658,Person_658,,Male,145170.0,New York
+659,Person_659,62.0,Male,147867.0,Phoenix
+660,Person_660,64.0,Male,47633.0,Phoenix
+661,Person_661,38.0,Female,124880.0,New York
+662,Person_662,33.0,Female,,Chicago
+663,Person_663,38.0,Male,,Chicago
+664,Person_664,28.0,Male,79104.0,Phoenix
+665,Person_665,54.0,Female,71621.0,Houston
+666,Person_666,53.0,Male,107231.0,New York
+667,Person_667,52.0,Male,98388.0,Phoenix
+668,Person_668,36.0,Female,46014.0,Phoenix
+669,Person_669,37.0,Male,122578.0,New York
+670,Person_670,35.0,Female,63755.0,New York
+671,Person_671,64.0,Male,70390.0,Chicago
+672,Person_672,58.0,Female,53711.0,Houston
+673,Person_673,31.0,Male,121658.0,Houston
+674,Person_674,32.0,Male,87993.0,New York
+675,Person_675,48.0,Female,104696.0,Los Angeles
+676,Person_676,18.0,Male,,Phoenix
+677,Person_677,20.0,Female,145788.0,Phoenix
+678,Person_678,33.0,Male,134956.0,nan
+679,Person_679,40.0,Female,87784.0,Los Angeles
+680,Person_680,28.0,Female,37421.0,Chicago
+681,Person_681,29.0,Female,116936.0,nan
+682,Person_682,27.0,Female,129073.0,New York
+683,Person_683,49.0,Male,47727.0,Phoenix
+684,Person_684,33.0,Male,142418.0,New York
+685,Person_685,25.0,Female,34358.0,New York
+686,Person_686,55.0,Female,95108.0,New York
+687,Person_687,29.0,Female,124018.0,Phoenix
+688,Person_688,41.0,Male,62117.0,Chicago
+689,Person_689,45.0,Male,118700.0,Chicago
+690,Person_690,25.0,Male,61910.0,New York
+691,Person_691,45.0,Male,128032.0,Phoenix
+692,Person_692,53.0,Female,85754.0,Chicago
+693,Person_693,43.0,Female,92438.0,Chicago
+694,Person_694,25.0,Female,139847.0,Chicago
+695,Person_695,45.0,Male,59371.0,Phoenix
+696,Person_696,45.0,Male,81501.0,Phoenix
+697,Person_697,54.0,Male,90946.0,New York
+698,Person_698,58.0,Female,68467.0,Houston
+699,Person_699,,Female,47625.0,Chicago
+700,Person_700,44.0,Male,63893.0,Houston
+701,Person_701,34.0,Female,106329.0,Phoenix
+702,Person_702,26.0,Male,,Phoenix
+703,Person_703,50.0,Male,121302.0,Phoenix
+704,Person_704,37.0,Female,,Houston
+705,Person_705,30.0,Male,84253.0,Phoenix
+706,Person_706,45.0,Female,42323.0,New York
+707,Person_707,46.0,Male,141335.0,nan
+708,Person_708,30.0,Female,142356.0,Los Angeles
+709,Person_709,63.0,Female,140944.0,Houston
+710,Person_710,52.0,Female,103379.0,Los Angeles
+711,Person_711,23.0,Male,44210.0,Phoenix
+712,Person_712,35.0,Male,,nan
+713,Person_713,22.0,Female,61367.0,Chicago
+714,Person_714,64.0,Female,84624.0,Phoenix
+715,Person_715,42.0,Male,40106.0,New York
+716,Person_716,19.0,Male,133493.0,Houston
+717,Person_717,27.0,Male,98008.0,Los Angeles
+718,Person_718,47.0,Female,145395.0,Los Angeles
+719,Person_719,62.0,Male,146492.0,Los Angeles
+720,Person_720,22.0,Male,102240.0,Houston
+721,Person_721,50.0,Female,94315.0,New York
+722,Person_722,18.0,Male,99249.0,Houston
+723,Person_723,35.0,Male,100587.0,Los Angeles
+724,Person_724,49.0,Male,40756.0,Phoenix
+725,Person_725,64.0,Female,98011.0,nan
+726,Person_726,28.0,Female,66378.0,nan
+727,Person_727,38.0,Female,34255.0,Houston
+728,Person_728,43.0,Female,44484.0,New York
+729,Person_729,42.0,Female,86549.0,nan
+730,Person_730,39.0,Female,,Houston
+731,Person_731,44.0,Female,103794.0,Los Angeles
+732,Person_732,30.0,Male,136283.0,nan
+733,Person_733,50.0,Male,130732.0,New York
+734,Person_734,,Female,,Los Angeles
+735,Person_735,58.0,Male,135730.0,Phoenix
+736,Person_736,52.0,Male,,New York
+737,Person_737,,Female,128117.0,Los Angeles
+738,Person_738,38.0,Male,35249.0,Los Angeles
+739,Person_739,23.0,Male,149979.0,Chicago
+740,Person_740,,Male,49201.0,Chicago
+741,Person_741,34.0,Male,88576.0,Phoenix
+742,Person_742,22.0,Male,148562.0,nan
+743,Person_743,48.0,Female,39686.0,nan
+744,Person_744,22.0,Female,142413.0,nan
+745,Person_745,55.0,Female,83363.0,New York
+746,Person_746,20.0,Male,127543.0,New York
+747,Person_747,40.0,Female,30661.0,Houston
+748,Person_748,54.0,Male,74843.0,Chicago
+749,Person_749,54.0,Male,125673.0,Houston
+750,Person_750,27.0,Male,90963.0,Chicago
+751,Person_751,27.0,Male,143092.0,Phoenix
+752,Person_752,,Female,72828.0,Los Angeles
+753,Person_753,34.0,Female,78604.0,Phoenix
+754,Person_754,,Male,40526.0,Chicago
+755,Person_755,31.0,Female,98910.0,Los Angeles
+756,Person_756,26.0,Male,55592.0,New York
+757,Person_757,63.0,Female,58982.0,New York
+758,Person_758,18.0,Female,30207.0,Houston
+759,Person_759,62.0,Male,130969.0,Chicago
+760,Person_760,,Female,147181.0,Chicago
+761,Person_761,21.0,Male,118733.0,New York
+762,Person_762,18.0,Female,128936.0,nan
+763,Person_763,57.0,Male,98619.0,Los Angeles
+764,Person_764,49.0,Male,59328.0,nan
+765,Person_765,51.0,Female,76479.0,Phoenix
+766,Person_766,45.0,Female,138427.0,New York
+767,Person_767,48.0,Male,50103.0,New York
+768,Person_768,,Female,69891.0,New York
+769,Person_769,56.0,Female,40754.0,Houston
+770,Person_770,,Male,129983.0,Phoenix
+771,Person_771,51.0,Male,,Chicago
+772,Person_772,20.0,Female,128540.0,Los Angeles
+773,Person_773,29.0,Male,102982.0,Houston
+774,Person_774,18.0,Male,132747.0,Chicago
+775,Person_775,61.0,Male,85922.0,Phoenix
+776,Person_776,22.0,Female,78231.0,New York
+777,Person_777,47.0,Female,59301.0,Phoenix
+778,Person_778,,Male,,Los Angeles
+779,Person_779,34.0,Female,92711.0,nan
+780,Person_780,64.0,Male,71323.0,nan
+781,Person_781,40.0,Female,48752.0,Los Angeles
+782,Person_782,32.0,Male,127912.0,Chicago
+783,Person_783,54.0,Male,,Chicago
+784,Person_784,38.0,Female,128452.0,Houston
+785,Person_785,31.0,Male,43395.0,Houston
+786,Person_786,19.0,Female,115957.0,New York
+787,Person_787,28.0,Female,86273.0,Chicago
+788,Person_788,56.0,Male,121878.0,Los Angeles
+789,Person_789,55.0,Male,34895.0,Chicago
+790,Person_790,51.0,Female,149968.0,New York
+791,Person_791,55.0,Male,145700.0,Houston
+792,Person_792,51.0,Male,106559.0,Houston
+793,Person_793,35.0,Male,40699.0,New York
+794,Person_794,47.0,Male,95061.0,Los Angeles
+795,Person_795,32.0,Male,39715.0,Houston
+796,Person_796,44.0,Female,,nan
+797,Person_797,51.0,Female,148413.0,Houston
+798,Person_798,55.0,Male,46163.0,Phoenix
+799,Person_799,50.0,Male,149264.0,New York
+800,Person_800,41.0,Male,35782.0,New York
+801,Person_801,32.0,Female,,Houston
+802,Person_802,47.0,Male,114328.0,Chicago
+803,Person_803,59.0,Female,145028.0,Phoenix
+804,Person_804,34.0,Female,65585.0,Los Angeles
+805,Person_805,22.0,Female,60682.0,nan
+806,Person_806,46.0,Male,,nan
+807,Person_807,21.0,Female,114416.0,Houston
+808,Person_808,27.0,Male,,nan
+809,Person_809,34.0,Female,68067.0,Chicago
+810,Person_810,27.0,Male,72685.0,nan
+811,Person_811,34.0,Female,48073.0,Chicago
+812,Person_812,37.0,Male,66035.0,New York
+813,Person_813,41.0,Female,94977.0,New York
+814,Person_814,22.0,Male,132710.0,nan
+815,Person_815,51.0,Male,120373.0,Los Angeles
+816,Person_816,23.0,Male,113362.0,Houston
+817,Person_817,19.0,Male,,Houston
+818,Person_818,30.0,Female,95450.0,New York
+819,Person_819,60.0,Female,40382.0,nan
+820,Person_820,60.0,Male,34437.0,New York
+821,Person_821,28.0,Female,100971.0,nan
+822,Person_822,,Male,94612.0,Los Angeles
+823,Person_823,40.0,Male,120355.0,nan
+824,Person_824,33.0,Female,91929.0,Chicago
+825,Person_825,48.0,Male,132411.0,Chicago
+826,Person_826,28.0,Male,127518.0,Chicago
+827,Person_827,33.0,Female,128864.0,Phoenix
+828,Person_828,25.0,Male,42329.0,Houston
+829,Person_829,21.0,Male,,Los Angeles
+830,Person_830,57.0,Male,,Chicago
+831,Person_831,21.0,Male,64594.0,Chicago
+832,Person_832,42.0,Female,106957.0,Chicago
+833,Person_833,20.0,Female,90631.0,Los Angeles
+834,Person_834,49.0,Female,75033.0,Chicago
+835,Person_835,20.0,Male,93133.0,Los Angeles
+836,Person_836,44.0,Male,103165.0,Chicago
+837,Person_837,46.0,Female,103861.0,nan
+838,Person_838,49.0,Male,82290.0,Phoenix
+839,Person_839,36.0,Male,124031.0,Los Angeles
+840,Person_840,38.0,Male,61750.0,Phoenix
+841,Person_841,22.0,Male,125155.0,Los Angeles
+842,Person_842,35.0,Female,70461.0,Phoenix
+843,Person_843,45.0,Female,103800.0,Phoenix
+844,Person_844,59.0,Female,108222.0,Los Angeles
+845,Person_845,39.0,Male,142020.0,Houston
+846,Person_846,,Female,54226.0,Phoenix
+847,Person_847,23.0,Female,36721.0,Chicago
+848,Person_848,18.0,Male,86154.0,Houston
+849,Person_849,22.0,Male,50609.0,Los Angeles
+850,Person_850,58.0,Female,82130.0,Houston
+851,Person_851,29.0,Female,102909.0,New York
+852,Person_852,43.0,Female,134211.0,New York
+853,Person_853,63.0,Female,,Phoenix
+854,Person_854,51.0,Male,78895.0,Phoenix
+855,Person_855,31.0,Female,124473.0,Chicago
+856,Person_856,,Female,,Houston
+857,Person_857,62.0,Male,104520.0,New York
+858,Person_858,44.0,Female,,Phoenix
+859,Person_859,26.0,Male,94309.0,Houston
+860,Person_860,43.0,Male,59984.0,Phoenix
+861,Person_861,64.0,Male,148947.0,Phoenix
+862,Person_862,39.0,Female,,New York
+863,Person_863,64.0,Female,35901.0,New York
+864,Person_864,47.0,Male,61552.0,Phoenix
+865,Person_865,,Female,121245.0,Los Angeles
+866,Person_866,,Female,61055.0,Phoenix
+867,Person_867,43.0,Male,67685.0,nan
+868,Person_868,,Male,,Chicago
+869,Person_869,,Female,44716.0,Chicago
+870,Person_870,25.0,Male,,nan
+871,Person_871,52.0,Female,41138.0,Los Angeles
+872,Person_872,32.0,Female,65298.0,Los Angeles
+873,Person_873,64.0,Female,81112.0,Phoenix
+874,Person_874,39.0,Female,53429.0,Chicago
+875,Person_875,,Male,80200.0,Los Angeles
+876,Person_876,43.0,Male,101308.0,New York
+877,Person_877,45.0,Male,,Phoenix
+878,Person_878,40.0,Male,147217.0,nan
+879,Person_879,31.0,Female,144055.0,Phoenix
+880,Person_880,,Female,131268.0,Houston
+881,Person_881,19.0,Male,135441.0,Chicago
+882,Person_882,62.0,Female,47347.0,nan
+883,Person_883,43.0,Female,46920.0,Chicago
+884,Person_884,31.0,Female,61822.0,New York
+885,Person_885,24.0,Male,76659.0,Houston
+886,Person_886,20.0,Male,70108.0,Phoenix
+887,Person_887,64.0,Male,119099.0,Chicago
+888,Person_888,40.0,Female,37967.0,Phoenix
+889,Person_889,63.0,Male,140719.0,Los Angeles
+890,Person_890,60.0,Male,41871.0,Chicago
+891,Person_891,64.0,Male,124299.0,Houston
+892,Person_892,62.0,Male,107452.0,Chicago
+893,Person_893,35.0,Male,104270.0,Phoenix
+894,Person_894,55.0,Male,63613.0,nan
+895,Person_895,52.0,Female,58179.0,Chicago
+896,Person_896,32.0,Female,,Houston
+897,Person_897,42.0,Male,85099.0,Los Angeles
+898,Person_898,54.0,Male,65262.0,New York
+899,Person_899,45.0,Female,108213.0,nan
+900,Person_900,27.0,Female,147407.0,Chicago
+901,Person_901,56.0,Male,48268.0,Phoenix
+902,Person_902,34.0,Male,107866.0,Phoenix
+903,Person_903,56.0,Male,,Houston
+904,Person_904,39.0,Male,90545.0,nan
+905,Person_905,43.0,Female,133483.0,New York
+906,Person_906,,Male,122822.0,Phoenix
+907,Person_907,42.0,Male,102146.0,Houston
+908,Person_908,34.0,Male,101966.0,Chicago
+909,Person_909,,Male,69922.0,Chicago
+910,Person_910,37.0,Female,109364.0,Phoenix
+911,Person_911,42.0,Female,72913.0,Los Angeles
+912,Person_912,21.0,Female,,Chicago
+913,Person_913,27.0,Male,134792.0,Phoenix
+914,Person_914,20.0,Male,149425.0,Houston
+915,Person_915,,Female,85677.0,Phoenix
+916,Person_916,62.0,Male,,nan
+917,Person_917,35.0,Male,79841.0,Houston
+918,Person_918,64.0,Female,76332.0,nan
+919,Person_919,,Female,122062.0,New York
+920,Person_920,64.0,Female,149863.0,Houston
+921,Person_921,,Female,125694.0,New York
+922,Person_922,51.0,Male,55032.0,Los Angeles
+923,Person_923,64.0,Male,67846.0,Houston
+924,Person_924,25.0,Female,89474.0,New York
+925,Person_925,57.0,Male,74936.0,Chicago
+926,Person_926,61.0,Female,59794.0,Chicago
+927,Person_927,36.0,Female,91588.0,Los Angeles
+928,Person_928,59.0,Male,100984.0,Houston
+929,Person_929,58.0,Female,80331.0,Houston
+930,Person_930,54.0,Male,124397.0,Houston
+931,Person_931,23.0,Male,58141.0,Los Angeles
+932,Person_932,43.0,Male,39074.0,Houston
+933,Person_933,,Male,36406.0,Chicago
+934,Person_934,62.0,Female,,New York
+935,Person_935,,Male,53291.0,nan
+936,Person_936,54.0,Female,71568.0,Chicago
+937,Person_937,50.0,Female,127539.0,New York
+938,Person_938,,Female,,Chicago
+939,Person_939,38.0,Female,129942.0,Los Angeles
+940,Person_940,23.0,Male,84823.0,New York
+941,Person_941,23.0,Male,53312.0,Chicago
+942,Person_942,21.0,Female,73108.0,Phoenix
+943,Person_943,47.0,Female,96918.0,nan
+944,Person_944,28.0,Male,64171.0,Los Angeles
+945,Person_945,47.0,Female,71779.0,Houston
+946,Person_946,48.0,Male,98828.0,Chicago
+947,Person_947,41.0,Female,137315.0,Houston
+948,Person_948,26.0,Male,128723.0,Phoenix
+949,Person_949,20.0,Female,,Chicago
+950,Person_950,48.0,Female,132821.0,New York
+951,Person_951,57.0,Male,147990.0,nan
+952,Person_952,54.0,Female,87009.0,Phoenix
+953,Person_953,53.0,Female,45422.0,New York
+954,Person_954,41.0,Male,72468.0,New York
+955,Person_955,48.0,Female,62371.0,New York
+956,Person_956,23.0,Male,,New York
+957,Person_957,19.0,Male,101229.0,nan
+958,Person_958,37.0,Female,129071.0,Chicago
+959,Person_959,45.0,Female,81196.0,Chicago
+960,Person_960,28.0,Female,110354.0,Phoenix
+961,Person_961,21.0,Female,,Phoenix
+962,Person_962,32.0,Female,,Phoenix
+963,Person_963,23.0,Female,56715.0,Los Angeles
+964,Person_964,47.0,Female,57605.0,Phoenix
+965,Person_965,55.0,Male,129853.0,Chicago
+966,Person_966,19.0,Female,61174.0,Chicago
+967,Person_967,32.0,Male,39956.0,Los Angeles
+968,Person_968,28.0,Female,134444.0,Los Angeles
+969,Person_969,25.0,Female,106373.0,nan
+970,Person_970,43.0,Male,99252.0,Houston
+971,Person_971,,Female,91949.0,Los Angeles
+972,Person_972,61.0,Female,92646.0,New York
+973,Person_973,,Male,100017.0,Chicago
+974,Person_974,23.0,Female,93037.0,New York
+975,Person_975,43.0,Female,119818.0,Chicago
+976,Person_976,21.0,Female,36548.0,nan
+977,Person_977,36.0,Male,146981.0,Los Angeles
+978,Person_978,37.0,Female,133141.0,Los Angeles
+979,Person_979,,Female,103294.0,New York
+980,Person_980,37.0,Female,139204.0,Chicago
+981,Person_981,29.0,Female,53177.0,New York
+982,Person_982,64.0,Male,54022.0,Houston
+983,Person_983,18.0,Male,136297.0,New York
+984,Person_984,,Female,35542.0,Phoenix
+985,Person_985,31.0,Female,121012.0,New York
+986,Person_986,55.0,Male,,Phoenix
+987,Person_987,54.0,Male,90428.0,Phoenix
+988,Person_988,28.0,Female,52740.0,Phoenix
+989,Person_989,53.0,Male,89353.0,Houston
+990,Person_990,30.0,Female,120353.0,New York
+991,Person_991,60.0,Male,143132.0,New York
+992,Person_992,20.0,Male,86532.0,Houston
+993,Person_993,,Male,,Chicago
+994,Person_994,23.0,Male,130689.0,Los Angeles
+995,Person_995,27.0,Female,77076.0,New York
+996,Person_996,,Male,83420.0,Los Angeles
+997,Person_997,40.0,Male,30671.0,Houston
+998,Person_998,27.0,Female,30163.0,Chicago
+999,Person_999,61.0,Male,71424.0,Chicago
+1000,Person_1000,19.0,Male,139538.0,Chicago
