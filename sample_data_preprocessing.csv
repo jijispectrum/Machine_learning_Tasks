@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Salary,Department,Experience,City
+1,Alice,25.0,Female,50000.0,HR,2,New York
+2,Bob,,Male,60000.0,IT,5,Los Angeles
+3,Charlie,30.0,Male,55000.0,IT,3,San Francisco
+4,David,22.0,Male,,Finance,1,Chicago
+5,Eve,40.0,Female,70000.0,HR,10,Houston
+6,Frank,35.0,Male,65000.0,Finance,7,Chicago
+7,Grace,,Female,62000.0,IT,6,San Francisco
+8,Hannah,28.0,,58000.0,HR,4,
+9,Ivy,50.0,Female,,Finance,12,Los Angeles
+10,Jack,45.0,Male,72000.0,,8,New York
